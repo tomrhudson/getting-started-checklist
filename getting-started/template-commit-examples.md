@@ -1,8 +1,8 @@
 # Getting Started Checklist: Commit
 
 # Table of Contents
-+ Preference
-+ Other Examples
++ [Preference](#Preference)
++ [Other Examples](#other-examples)
 
 
 ## Preference

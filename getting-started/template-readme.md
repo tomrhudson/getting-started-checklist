@@ -1,7 +1,7 @@
 # Getting Started Checklist: Readme Examples
 
 # Table of Contents
-+ Preference
++ [Preference](#Preference)
 
 
 ## Preference

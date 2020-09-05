@@ -1,9 +1,9 @@
 # Getting Started Checklist: GitHub
 
 # Table of Contents
-+ First Steps
-+ GitHub Repository Updates
-+ Additional Files
++ [First Steps](#first-steps)
++ [GitHub Repository Updates](#GitHub-repository-updates)
++ [Additional Files](#addtional-files)
 
 ## First Steps
 

@@ -1,8 +1,8 @@
 # Getting Started Checklist: Template
 
 # Table of Contents
-+ Sub-Section
-+
++ [Sub-Section](#sub-section)
+
 
 ## Sub-Section
 

@@ -53,8 +53,7 @@ or click here:
 
 Start by reading the [GitHub Project Setup](/getting-started/main-github.md).
 
-+ Icon libraries
-+ Wireframe Tools
++ TBA
 
 ## Reference
 
