@@ -52,7 +52,7 @@ Start by reading the GitHub Project Setup.
 
 ## Contributors
 
-Open an issue or a pull request to suggest changes or additions.
+Open an issue or a pull request to suggest changes or additions. A template for new MD files can be found in the repo [here](https://github.com/tomrhudson/getting-started-checklist/blob/development/template.md).
 
 ## License
 
