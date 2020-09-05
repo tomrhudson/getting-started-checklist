@@ -41,7 +41,7 @@ or click here:
 
 ## Usage
 
-Start by reading the GitHub Project Setup.
+Start by reading the [GitHub Project Setup](https://github.com/tomrhudson/getting-started-checklist/blob/development/getting-started/10-github-project-setup.md).
 
 + Icon libraries
 + Wireframe Tools
