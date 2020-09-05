@@ -10,7 +10,7 @@
 - [ ] Create repository
 - [ ] Clone repository to local computer
 - [ ] Update / Create readme file using this [template](https://github.com/Jasonnor/README.md).
-- [ ] Write commit message using a [template](https://github.com/tomrhudson/getting-started-checklist/blob/development/getting-started/template-commit-examples.md) like this.
+- [ ] Write commit message using a [template](/getting-started/template-commit-examples.md) like this.
 - [ ] Commit changes
 - [ ] Push updates to repository
 
