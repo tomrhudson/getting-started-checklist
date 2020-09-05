@@ -8,7 +8,7 @@ To review the table of contents of this README whcih contains the motivations,
 how to contribute, etc. please go [here](#table-of-contents).
 
 
-+ [Getting Started](https://github.com/tomrhudson/getting-started-checklist/blob/development/getting-started/main-github.md)
++ [Getting Started](/getting-started/main-github.md)
 
 + [Branding](https://github.com/tomrhudson/getting-started-checklist/blob/development/branding/main-branding.md)
 + [Security](https://github.com/tomrhudson/getting-started-checklist/blob/development/security/main-security.md)
