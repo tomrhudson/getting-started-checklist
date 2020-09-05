@@ -36,6 +36,8 @@ Provide code examples and explanations of how to get the project, e.g.,
 	git clone https://github.com/tomrhudson/getting-started-checklist.git
     cd README.md
 
+or click here:
+### (Get Started)[https://github.com/tomrhudson/getting-started-checklist/blob/development/getting-started/10-github-project-setup.md]
 
 ## Usage
 
@@ -43,7 +45,6 @@ Start by reading the GitHub Project Setup.
 
 + Icon libraries
 + Wireframe Tools
-+
 
 ## Reference
 

@@ -1,8 +1,8 @@
 # Getting Started Checklist: Readme Examples
 
 # Table of Contents
-+ First Steps
-+ GitHub Repository Updates
++ Preference
+
 
 ## Preference
 + [Jassonnor/readme.md](https://github.com/Jasonnor/README.md)
