@@ -10,8 +10,8 @@ how to contribute, etc. please go [here](#table-of-contents).
 
 + [Getting Started](/getting-started/main-github.md)
 
-+ [Branding](https://github.com/tomrhudson/getting-started-checklist/blob/development/branding/main-branding.md)
-+ [Security](https://github.com/tomrhudson/getting-started-checklist/blob/development/security/main-security.md)
++ [Branding](/branding/main-branding.md)
++ [Security](/security/main-security.md)
 
 # Table of Contents
 
@@ -47,11 +47,11 @@ Provide code examples and explanations of how to get the project, e.g.,
     cd README.md
 
 or click here:
-### [Get Started](https://github.com/tomrhudson/getting-started-checklist/blob/development/getting-started/main-github.md)
+### [Get Started](/getting-started/main-github.md)
 
 ## Usage
 
-Start by reading the [GitHub Project Setup](https://github.com/tomrhudson/getting-started-checklist/blob/development/getting-started/main-github.md).
+Start by reading the [GitHub Project Setup](/getting-started/main-github.md).
 
 + Icon libraries
 + Wireframe Tools
@@ -63,7 +63,7 @@ Start by reading the [GitHub Project Setup](https://github.com/tomrhudson/gettin
 ## Contributors
 
 + Open an issue or a pull request to suggest changes or additions.
-+ A template for new MD files can be found in the repo [here](https://github.com/tomrhudson/getting-started-checklist/blob/development/template.md).
++ A template for new MD files can be found in the repo [here](/template.md).
 + If creating a new directory, create a file named main-<folder>.md as the index
   file of that folder.
 + Ensure that main-<folder>.md file is updated with any new files and/or sections
