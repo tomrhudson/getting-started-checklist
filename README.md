@@ -16,13 +16,13 @@ how to contribute, etc. please go [here](#table-of-contents).
 # Table of Contents
 
 + Features or Examples
-+ Motivation
-+ Requirements
++ [Motivation](#motivation)
++ [Requirements](#requirements)
 + Installation or Getting Started
-+ Usage
-+ Reference
-+ Contributors
-+ License
++ [Usage](#usage)
++ [Reference](#Reference)
++ [Contributors](#Contributors)
++ [License](#License)
 
 ## Features or Example
 
