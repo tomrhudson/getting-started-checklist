@@ -37,7 +37,7 @@ Provide code examples and explanations of how to get the project, e.g.,
     cd README.md
 
 or click here:
-### (Get Started)[https://github.com/tomrhudson/getting-started-checklist/blob/development/getting-started/10-github-project-setup.md]
+### [Get Started](https://github.com/tomrhudson/getting-started-checklist/blob/development/getting-started/10-github-project-setup.md)
 
 ## Usage
 
