@@ -69,6 +69,7 @@ Start by reading the [GitHub Project Setup](/getting-started/main-github.md).
 + Ensure that main-<folder>.md file is updated with any new files and/or sections
   that are created.
 + ensure README.md is updated with new folders pointing to the main-<folder>.md
++ use [relative](https://github.blog/2013-01-31-relative-links-in-markup-files/) links when referring from one *.md file to another in the repo
 
 ## License
 
