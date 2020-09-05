@@ -15,10 +15,10 @@ how to contribute, etc. please go [here](#table-of-contents).
 
 # Table of Contents
 
-+ Features or Examples
++ [Features or Examples](#features-or-example)
 + [Motivation](#motivation)
 + [Requirements](#requirements)
-+ Installation or Getting Started
++ [Installation or Getting Started](#Installation-or-Getting-Started)
 + [Usage](#usage)
 + [Reference](#Reference)
 + [Contributors](#Contributors)
