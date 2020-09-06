@@ -1,4 +1,4 @@
-# Getting Started Checklist: Template
+# Getting Started Checklist: Branding
 
 # Table of Contents
 + [Sub-Section](#sub-section)

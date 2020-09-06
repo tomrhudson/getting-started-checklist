@@ -1,8 +1,8 @@
-# Getting Started Checklist: Template
+# Getting Started Checklist: Security
 
 # Table of Contents
 + [Sub-Section](#sub-section)
-
++
 
 ## Sub-Section
 
