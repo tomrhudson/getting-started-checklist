@@ -21,6 +21,24 @@
 - [ ] Add a Branch protection rule if preferred
   * Preference is to "Require pull request reviews before merging"
 
+## GitHub Label Creation
+Format of the list below is as follows: Label Name / Description / Color
+
+- [ ] Epic / / #5319e7
+- [ ] good first issue / Good for newcomers / #006b75
+- [ ] help wanted / Extra attention is needed / #0e8a16
+- [ ] priority:must_have / / #1d76db
+- [ ] priority:nice_to_have / / #1d76db
+- [ ] priority:should_have / / #1d76db
+- [ ] question / Further information is requested / #fbca04
+- [ ] status:duplicate / This issue or pull request already exists / #cfd3d7
+- [ ] status:on_hold / / #cfd3d7
+- [ ] status:wontfix / This will not be worked on / #cfd3d7
+- [ ] type:bug / Something isn't working / #d73a4a
+- [ ] type:documentation / Improvements or additions to documentation / #d73a4a
+- [ ] type:enhancement / New feature or request / #d73a4a
+
+
 ## Additional Files
 
 - [ ] Add a license to your project and update the changes in the README.md file.
